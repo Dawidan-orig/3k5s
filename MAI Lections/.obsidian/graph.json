@@ -5,8 +5,15 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "tag:#Практика  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
     {
       "query": "path:\"Математическое программирование\"  ",
       "color": {
@@ -41,11 +48,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.221413721413721,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5973235644709213,
+  "scale": 0.6066872107549884,
   "close": false
 }
