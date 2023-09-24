@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "a63fcb734f46de80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Метрология/Лекции/23.09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Метрология/Лекции/23.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Метрология/Лекции/23.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Метрология/Лекции/23.09.md"
+              }
             }
           },
           {
@@ -150,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e9c3a5f6551a5f0",
+  "active": "a63fcb734f46de80",
   "lastOpenFiles": [
+    "Метрология/Лекции/09.09.md",
+    "Метрология/Лекции/23.09.md",
     "Базы Данных/Практика/Лаба 21.09.md",
     "Базы Данных/Практика/lu2100833fzo2.tmp",
     "Базы Данных/Практика/lu2100833fznd.tmp",
@@ -178,7 +197,6 @@
     "Архитектура вычислительных систем/05.09.md",
     "Метрология/Законы/ФЗ/ФЗ-162 (29.06.2015) (О Стандартизации).md",
     "Базы Данных/SQL.md",
-    "Метрология/Лекции/09.09.md",
     "Метрология/Лекции/02.09.md",
     "Метрология/Практики/Практика 21.09.md",
     "Метрология/Законы/ФЗ/184й ФЗ (О техническом регулировании) 2002.md",
