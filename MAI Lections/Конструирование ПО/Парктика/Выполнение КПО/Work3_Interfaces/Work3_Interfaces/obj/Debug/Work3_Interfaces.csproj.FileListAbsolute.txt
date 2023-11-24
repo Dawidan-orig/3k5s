@@ -1,0 +1,10 @@
+C:\Users\Dawidan\Downloads\лекции 3-й курс\3k5s\MAI Lections\Конструирование ПО\Парктика\Выполнение КПО\Work3_Interfaces\Work3_Interfaces\bin\Debug\Work3_Interfaces.exe.config
+C:\Users\Dawidan\Downloads\лекции 3-й курс\3k5s\MAI Lections\Конструирование ПО\Парктика\Выполнение КПО\Work3_Interfaces\Work3_Interfaces\bin\Debug\Work3_Interfaces.exe
+C:\Users\Dawidan\Downloads\лекции 3-й курс\3k5s\MAI Lections\Конструирование ПО\Парктика\Выполнение КПО\Work3_Interfaces\Work3_Interfaces\bin\Debug\Work3_Interfaces.pdb
+C:\Users\Dawidan\Downloads\лекции 3-й курс\3k5s\MAI Lections\Конструирование ПО\Парктика\Выполнение КПО\Work3_Interfaces\Work3_Interfaces\obj\Debug\Work3_Interfaces.csproj.AssemblyReference.cache
+C:\Users\Dawidan\Downloads\лекции 3-й курс\3k5s\MAI Lections\Конструирование ПО\Парктика\Выполнение КПО\Work3_Interfaces\Work3_Interfaces\obj\Debug\Work3_Interfaces.Form1.resources
+C:\Users\Dawidan\Downloads\лекции 3-й курс\3k5s\MAI Lections\Конструирование ПО\Парктика\Выполнение КПО\Work3_Interfaces\Work3_Interfaces\obj\Debug\Work3_Interfaces.Properties.Resources.resources
+C:\Users\Dawidan\Downloads\лекции 3-й курс\3k5s\MAI Lections\Конструирование ПО\Парктика\Выполнение КПО\Work3_Interfaces\Work3_Interfaces\obj\Debug\Work3_Interfaces.csproj.GenerateResource.cache
+C:\Users\Dawidan\Downloads\лекции 3-й курс\3k5s\MAI Lections\Конструирование ПО\Парктика\Выполнение КПО\Work3_Interfaces\Work3_Interfaces\obj\Debug\Work3_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Dawidan\Downloads\лекции 3-й курс\3k5s\MAI Lections\Конструирование ПО\Парктика\Выполнение КПО\Work3_Interfaces\Work3_Interfaces\obj\Debug\Work3_Interfaces.exe
+C:\Users\Dawidan\Downloads\лекции 3-й курс\3k5s\MAI Lections\Конструирование ПО\Парктика\Выполнение КПО\Work3_Interfaces\Work3_Interfaces\obj\Debug\Work3_Interfaces.pdb

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAI Lections/Математическое программирование/Лекции/25.09.md",
+                "file": "MAI Lections/Конструирование ПО/Лекция 04.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAI Lections/Математическое программирование/Лекции/25.09.md",
+                "file": "MAI Lections/Конструирование ПО/Лекция 04.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAI Lections/Математическое программирование/Лекции/25.09.md",
+                "file": "MAI Lections/Конструирование ПО/Лекция 04.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAI Lections/Математическое программирование/Лекции/25.09.md"
+                "file": "MAI Lections/Конструирование ПО/Лекция 04.09.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "f04ecb343d778ad0",
   "lastOpenFiles": [
-    "MAI Lections/Математическое программирование/Линия уровня.md",
     "MAI Lections/Математическое программирование/Лекции/25.09.md",
+    "MAI Lections/Математическое программирование/Линия уровня.md",
     "MAI Lections/Математическое программирование/Лекции/11.09.md",
     "MAI Lections/Математическое программирование/Лекции/18.09.md",
     "MAI Lections/Математическое программирование/Теоремы/Теорема 2, Достаточное условие min-max.md",
