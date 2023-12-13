@@ -1,19 +1,18 @@
-﻿#include <iostream>
+﻿
+#include <iostream>
 #include <string>
 #include <Windows.h>
-#include <stdlib.h>
 
 using namespace std;
 
 static  int MaxId = 1;
-int MaxSize = 100;
-string* ST[100];
-
+int MaxSize = 3;
+string* ST[3];
 class Stack
 {
 	string StackId;
 	char buffer[65];
-	string* ST[100];
+	string* ST[3];
 	int top;
 public: Stack()
 {
@@ -47,7 +46,7 @@ public: string pop()
 
 };
 
-void main()//int _tmain(int argc, _TCHAR* argv[])
+int main()//int _tmain(int argc, _TCHAR* argv[])
 {
 	SetConsoleCP(1251);// установка кодовой страницы win-cp 1251 в поток ввода
 	SetConsoleOutputCP(1251);
@@ -58,7 +57,7 @@ void main()//int _tmain(int argc, _TCHAR* argv[])
 	cin >> r;
 	if (r == "да")
 		stack = new Stack();
-	else return;
+	else return 0;
 
 
 	string s;

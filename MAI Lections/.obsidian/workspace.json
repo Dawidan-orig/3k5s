@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Метрология/Лекции/02.12.md",
+                "file": "Основы Менеджмента/13.12.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Метрология/Лекции/02.12.md",
+                "file": "Основы Менеджмента/13.12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Метрология/Лекции/02.12.md",
+                "file": "Основы Менеджмента/13.12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Метрология/Лекции/02.12.md"
+                "file": "Основы Менеджмента/13.12.md"
               }
             }
           },
@@ -167,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd3cae8a0162fa3d",
+  "active": "4922b645d2ecc128",
   "lastOpenFiles": [
+    "Основы Менеджмента/13.12.md",
     "Основы Менеджмента/29.11.md",
     "Метрология/Лекции/02.12.md",
     "Основы Менеджмента/01.11.md",
@@ -204,7 +205,6 @@
     "Аналитическое моделирование-Архитектура систем/Лекции Ноябрь/07.11.md",
     "Базы Данных/Лекции/07.11.md",
     "Метрология/Лекции/21.10.md",
-    "Метрология/Практики/Практика 19.10.md",
     "Скрины/Pasted image 20231026123853.png",
     "Скрины/Pasted image 20231005134803.png",
     "Скрины/Pasted image 20231005134754.png",
