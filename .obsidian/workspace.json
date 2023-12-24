@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d35142f7dd1cbb34",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f04ecb343d778ad0",
+  "active": "d35142f7dd1cbb34",
   "lastOpenFiles": [
     "MAI Lections/Математическое программирование/Лекции/25.09.md",
     "MAI Lections/Математическое программирование/Линия уровня.md",
