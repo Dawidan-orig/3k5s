@@ -23,9 +23,11 @@
             "id": "d35142f7dd1cbb34",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "MAI Lections/Метрология/Практики/Практика 19.10.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAI Lections/Конструирование ПО/Лекция 04.09.md",
+                "file": "MAI Lections/Метрология/Практики/Практика 19.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAI Lections/Конструирование ПО/Лекция 04.09.md",
+                "file": "MAI Lections/Метрология/Практики/Практика 19.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAI Lections/Конструирование ПО/Лекция 04.09.md"
+                "file": "MAI Lections/Метрология/Практики/Практика 19.10.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,6 +162,20 @@
   },
   "active": "d35142f7dd1cbb34",
   "lastOpenFiles": [
+    "MAI Lections/Метрология/Практики/Практика 05.10.md",
+    "MAI Lections/Метрология/Практики/Практика 02.11.md",
+    "MAI Lections/Метрология/Лекции/21.10.md",
+    "MAI Lections/Метрология/Лекции/23.09.md",
+    "MAI Lections/Метрология/Лекции/07.10.md",
+    "MAI Lections/Метрология/Лекции/18.11.md",
+    "MAI Lections/Метрология/Лекции/16.09.md",
+    "MAI Lections/Метрология/Лекции/09.09.md",
+    "MAI Lections/Метрология/Лекции/02.12.md",
+    "MAI Lections/Метрология/Законы/ФЗ/184й ФЗ (О техническом регулировании) 2002.md",
+    "MAI Lections/Метрология/Законы/ФЗ/ФЗ-162 (29.06.2015) (О Стандартизации).md",
+    "MAI Lections/Метрология/Лекции/02.09.md",
+    "2023-12-28.md",
+    "Без названия.canvas",
     "MAI Lections/Математическое программирование/Лекции/25.09.md",
     "MAI Lections/Математическое программирование/Линия уровня.md",
     "MAI Lections/Математическое программирование/Лекции/11.09.md",
